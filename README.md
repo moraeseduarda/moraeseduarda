@@ -1,4 +1,5 @@
-## Olá! Me chamo Eduarda :) Sou estudante, entusiasta por tecnologia e apaixonada por conhecimento.
+## Olá! Me chamo Eduarda :) 
+## Sou estudante, entusiasta por tecnologia e apaixonada por conhecimento.
 
 <!---
 moraeseduarda/moraeseduarda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
