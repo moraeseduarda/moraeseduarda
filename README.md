@@ -1,7 +1,6 @@
-Sou a Eduarda ✨
-<ul>
-  <li>Estudante<li>
-</ul>
+Eduarda Moraes ✨<br>
+Sou estudante. <br>
+Sigo desenvolvendo minhas habilidades na área de TI, principalmente em desenvolvimento WEB e front-end.
 
 <!---
 moraeseduarda/moraeseduarda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
