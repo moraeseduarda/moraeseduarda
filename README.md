@@ -1,6 +1,6 @@
 Eduarda Moraes ✨<br>
 Sou estudante. <br>
-Sigo desenvolvendo minhas habilidades na área de TI, principalmente em desenvolvimento WEB e front-end.
+Procuro desenvolver minhas habilidades no Back-End.
 
 <!---
 moraeseduarda/moraeseduarda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
