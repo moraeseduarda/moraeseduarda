@@ -4,7 +4,7 @@
 
 - 🩷 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Cursando Sistemas de Informação na Universidade Federal de Santa Catarina.
-- 💼 Trabalhando como Trainee na Pixel - Soluções Digitais (EJ UFSC).
+- 💼 Trabalhando como Desenvolvedora na Pixel - Soluções Digitais (EJ UFSC).
 - 🌱 Aprendendo mais sobre React Native e Node.js.
 
 ## Minhas Skills
